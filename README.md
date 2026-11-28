@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan.
+- 👋 Hi, I’m Ryan Aryan.
 - 👀 I’m interested in software development/data engineering/ ML.
 - 💞️ I’m looking to collaborate on my future projects.
 - 😄 Pronouns: He/Him
